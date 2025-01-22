@@ -1,0 +1,40 @@
+* {
+    font-family: sans-serif;
+}
+
+.nav {
+    background-color: black !important;
+    width: 100%;
+    height:100px;
+}
+
+.header {
+    color: #d3d3d3;
+    padding-left: 10px !important;
+    padding-top: 35px !important;
+}
+
+.app {
+    background-color: #d3d3d3;
+    height: 100%;
+}
+
+.main {
+    padding-top: 100px;
+    padding-bottom: 100px;
+    background-color: #d3d3d3;
+    color: black;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+}
+
+.character{
+    font-style: italic;
+}
+
+.button{
+    padding: 50px !important;
+}
